@@ -4,12 +4,10 @@ Developed a minimalist and user-friendly chat application using Flutter, providi
 
 ## Tools
 
-flutter_bloc
-fluttertoast
-hexcolor
-conditional_builder_null_safety
-bloc
-image_picker
+- flutter_bloc
+- conditional_builder_null_safety
+- bloc
+- modal_progress_hud
 
 # Firebase
 firebase_core
